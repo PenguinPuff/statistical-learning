@@ -1,17 +1,3 @@
-# Statistical Learning
-- Linear regression
-- Logistic regression (classification)
-- Inference
-- Resampling methods
-- Linear model : Selection and Regularization
-- Beyong linearity (polynomials)
-- Tree-based methods
-- Deep Learning
-- Unsupervised Learning  
-- Multiple Testing
-
-I am trying to write the best of notes for Statistical Learning, I have the for reference. Definitely a must read for all peeps into statistical learning .
-![An Introduction to Statistical Learning with Applications in R](https://github.com/PenguinPuff/statistical-learning/assets/142169851/31ebda48-234d-45b5-b722-264a04e6d71d) 
-
-It's going to be a long long task since I only take an introductory statistics courses in this semester and then I don't know when I can continue with a datascience statistics course (after Inference) but we'll see. I'll try my best to keep it updated. And yeah, the notes are 100% TEX Based though I would add some jupyter notebooks in the repository. 
-
+# Linear Regression
+- Added introduction.tex on 17/06/2024
+- Added hypothesis_accuracy.tex on 18/06/2024
